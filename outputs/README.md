@@ -112,7 +112,7 @@ Open the notebook using Jupyter Lab/Notebook
 
 Run all cells in order
 
-Visualizations will automatically save to artifacts/figures/
+Visualizations will automatically save to outputs/figures/
 
 7. Research Question Restated
 
@@ -121,8 +121,6 @@ This project answers the question using EDA and feature-importance modeling.
 
 8. Notes for Submission
 
-All output figures and processed data files are included in the artifacts/ folder
+All output figures and processed data files are included in the outputs/figures
 
 Notebook outputs are preserved
-
-This README explains the full workflow clearly for grading
